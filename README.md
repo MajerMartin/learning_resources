@@ -18,6 +18,13 @@
 | [Accelerated C++](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X) | :heavy_check_mark: |
 | [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419)       |                    |
 
+## Go
+| Title                                                                      | Progress           |
+| ---------------------------------------------------------------------------| :----------------: |
+| [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)        |                    |
+| [The Go Programming Language](http://www.gopl.io/)                         |                    |
+| [Effective Go](https://golang.org/doc/effective_go.html)                   |                    |
+
 ## Python
 
 | Title                                                                      | Progress           |
