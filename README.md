@@ -84,5 +84,21 @@
 ## Others
 
 | Title                                     | Progress           |
-| ------------------------------------------| :----------------: |
+| ----------------------------------------- | :----------------: |
 | [Pro Git](https://git-scm.com/book/en/v2) |                    |
+
+## Scala
+
+| Title                                                                                                         | Progress                 |
+| ------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| [Essential Scala](https://underscore.io/books/essential-scala/)                                               | :hourglass_flowing_sand: |
+| [Essential Play](https://underscore.io/books/essential-play/)                                                 |                          |
+| [Essential Slick](https://underscore.io/books/essential-slick/)                                               |                          |
+| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                               |                          |
+| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book) |                          |
+| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                        |                          |
+| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)  |                          |
+| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                           |                          |
+| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)              |                          |
+| [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)                         |                          |
+| [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)                                 |                          |
