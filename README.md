@@ -30,6 +30,7 @@
 | [Hadoop: The Definitive Guide](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/) | :heavy_check_mark:       |
 
 ## General
+
 | Title                                                                                                             | Progress           |
 | ----------------------------------------------------------------------------------------------------------------- | :----------------: |
 | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)                     | :heavy_check_mark: |
@@ -38,13 +39,29 @@
 | [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)     |                    | 
 
 ## Go
-| Title                                                                      | Progress           |
-| -------------------------------------------------------------------------- | :----------------: |
-| [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)        |                    |
-| [The Go Programming Language](http://www.gopl.io/)                         |                    |
-| [Effective Go](https://golang.org/doc/effective_go.html)                   |                    |
+
+| Title                                                               | Progress           |
+| ------------------------------------------------------------------- | :----------------: |
+| [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) |                    |
+| [The Go Programming Language](http://www.gopl.io/)                  |                    |
+| [Effective Go](https://golang.org/doc/effective_go.html)            |                    |
+
+## Haskell
+
+| Title                                                               | Progress           |
+| ------------------------------------------------------------------- | :----------------: |
+| [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) |                    |
+| [Haskell Programming](http://haskellbook.com/)                      |                    |
+| [A Type of Programming](https://atypeofprogramming.com/)            |                    |
+
+## Java
+
+| Title                                                                                    | Progress           |
+| ---------------------------------------------------------------------------------------- | :----------------: |
+| [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |                    |
 
 ## Machine Learning
+
 | Title                                                                                                                                                                                   | Progress           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: |
 | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)                                                                                            | :heavy_check_mark: |
@@ -65,6 +82,7 @@
 | [Test-Driven Development with Python](https://www.obeythetestinggoat.com/) |                    |
 
 ## Others
-| Title                                            | Progress           |
-| ------------------------------------------------ | :----------------: |
-| [Pro Git](https://git-scm.com/book/en/v2)        |                    |
+
+| Title                                     | Progress           |
+| ------------------------------------------| :----------------: |
+| [Pro Git](https://git-scm.com/book/en/v2) |                    |
