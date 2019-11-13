@@ -91,8 +91,6 @@
 | Title                                                                                                         | Progress                 |
 | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
 | [Essential Scala](https://underscore.io/books/essential-scala/)                                               |                          |
-| [Essential Play](https://underscore.io/books/essential-play/)                                                 |                          |
-| [Essential Slick](https://underscore.io/books/essential-slick/)                                               |                          |
 | [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                               |                          |
 | [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book) | :hourglass_flowing_sand: |
 | [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                        |                          |
