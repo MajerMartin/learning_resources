@@ -23,11 +23,11 @@
 
 | Title                                                                                                              | Progress                 |
 | ------------------------------------------------------------------------------------------------------------------ | :----------------------: |
-| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                |                          |
+| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | :hourglass_flowing_sand: |
 | [Streaming Systems](http://streamingsystems.net/)                                                                  |                          |
 | [Spark: The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)            |                          |
 | [High Performance Spark](https://www.oreilly.com/library/view/high-performance-spark/9781491943199/)               |                          |
-| [Apache Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/)               | :hourglass_flowing_sand: |
+| [Apache Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/)               | :heavy_check_mark:       |
 | [Hadoop: The Definitive Guide](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)          | :heavy_check_mark:       |
 | [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)   |                          |
 
