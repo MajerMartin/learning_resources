@@ -30,6 +30,7 @@
 | [Apache Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/)               | :heavy_check_mark:       |
 | [Hadoop: The Definitive Guide](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)          | :heavy_check_mark:       |
 | [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)   |                          |
+| [SQL Performance Explained](https://use-the-index-luke.com/)                                                       |                          |
 
 ## General
 
