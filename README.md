@@ -93,6 +93,7 @@
 
 | Title                                                                                                         | Progress                 |
 | ------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| [Hello, Scala](https://hello-scala.com/)                                                                      | :hourglass_flowing_sand: |
 | [Essential Scala](https://underscore.io/books/essential-scala/)                                               |                          |
 | [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                               |                          |
 | [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book) | :hourglass_flowing_sand: |
