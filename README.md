@@ -103,3 +103,4 @@
 | [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)              |                          |
 | [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)                         |                          |
 | [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)                                 |                          |
+| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)              |                          |
