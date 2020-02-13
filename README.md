@@ -91,16 +91,17 @@
 
 ## Scala
 
-| Title                                                                                                         | Progress                 |
-| ------------------------------------------------------------------------------------------------------------- | :----------------------: |
-| [Hello, Scala](https://hello-scala.com/)                                                                      | :heavy_check_mark:       |
-| [Essential Scala](https://underscore.io/books/essential-scala/)                                               |                          |
-| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                               |                          |
-| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book) | :hourglass_flowing_sand: |
-| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                        |                          |
-| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)  |                          |
-| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                           |                          |
-| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)              |                          |
-| [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)                         |                          |
-| [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)                                 |                          |
-| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)              |                          |
+| Title                                                                                                            | Progress                 |
+| ---------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark:       |
+| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  |                          |
+| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  |                          |
+| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :hourglass_flowing_sand: |
+| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                          |
+| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                          |
+| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                          |
+| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                          |
+| [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)                            |                          |
+| [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)                                    |                          |
+| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 |                          |
+| [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
