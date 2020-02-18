@@ -101,7 +101,5 @@
 | [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                          |
 | [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                          |
 | [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                          |
-| [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)                            |                          |
-| [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)                                    |                          |
 | [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 |                          |
 | [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
