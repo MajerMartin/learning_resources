@@ -98,9 +98,9 @@
 | Title                                                                                                            | Progress                 |
 | ---------------------------------------------------------------------------------------------------------------- | :----------------------: |
 | [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark:       |
-| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  |                          |
+| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :hourglass_flowing_sand:                         |
 | [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  |                          |
-| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :hourglass_flowing_sand: |
+| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :heavy_check_mark:       |
 | [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                          |
 | [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                          |
 | [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                          |
