@@ -38,7 +38,6 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: |
 | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)                                                  | :heavy_check_mark: |
 | [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)                                    | :heavy_check_mark: |
-| [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)                                           |                    |
 | [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)                              |                    |
 | [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)                                  |                    | 
 | [Fundamentals of Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) |                    | 
@@ -98,7 +97,7 @@
 | Title                                                                                                            | Progress                 |
 | ---------------------------------------------------------------------------------------------------------------- | :----------------------: |
 | [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark:       |
-| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :hourglass_flowing_sand:                         |
+| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :hourglass_flowing_sand: |
 | [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  |                          |
 | [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :heavy_check_mark:       |
 | [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                          |
