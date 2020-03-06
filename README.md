@@ -107,3 +107,4 @@
 | [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                          |
 | [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 |                          |
 | [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
+| [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                          |
