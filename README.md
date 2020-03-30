@@ -90,9 +90,10 @@
 
 ## Others
 
-| Title                                     | Progress           |
-| ----------------------------------------- | :----------------: |
-| [Pro Git](https://git-scm.com/book/en/v2) |                    |
+| Title                                                                           | Progress           |
+| ------------------------------------------------------------------------------- | :----------------: |
+| [Pro Git](https://git-scm.com/book/en/v2)                                       |                    |
+| [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) |                    |
 
 ## Scala
 
