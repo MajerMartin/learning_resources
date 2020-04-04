@@ -23,8 +23,8 @@
 
 | Title                                                                                                              | Progress                 |
 | ------------------------------------------------------------------------------------------------------------------ | :----------------------: |
-| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | :hourglass_flowing_sand: |
-| [Streaming Systems](http://streamingsystems.net/)                                                                  |                          |
+| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | :heavy_check_mark:       |
+| [Streaming Systems](http://streamingsystems.net/)                                                                  | :hourglass_flowing_sand: |                         |
 | [Spark: The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)            |                          |
 | [High Performance Spark](https://www.oreilly.com/library/view/high-performance-spark/9781491943199/)               |                          |
 | [Apache Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/)               | :heavy_check_mark:       |
@@ -35,15 +35,15 @@
 
 ## General
 
-| Title                                                                                                                                          | Progress           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: |
-| [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)                                                  | :heavy_check_mark: |
-| [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)                                    | :heavy_check_mark: |
-| [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)                              |                    |
-| [The Twelve-Factor App](https://12factor.net/)                                                                                                 |                    |
-| [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)                                  |                    | 
-| [Fundamentals of Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) |                    | 
-| [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)    |                    | 
+| Title                                                                                                                                          | Progress                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)                                                  | :heavy_check_mark:       |
+| [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)                                    | :heavy_check_mark:       |
+| [Refactoring](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)                              |                          |
+| [The Twelve-Factor App](https://12factor.net/)                                                                                                 | :hourglass_flowing_sand: |                |
+| [The Pragmatic Programmer](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)                                  |                          | 
+| [Fundamentals of Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) |                          | 
+| [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)    |                          | 
 
 
 ## Go
