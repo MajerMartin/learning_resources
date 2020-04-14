@@ -68,6 +68,7 @@
 | ---------------------------------------------------------------------------------------- | :----------------: |
 | [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)                          |                    |
 | [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |                    |
+| [JetBrains Academy](https://www.jetbrains.com/academy/)                                  |                    |
 
 ## Machine Learning
 
