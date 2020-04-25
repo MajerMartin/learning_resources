@@ -64,11 +64,11 @@
 
 ## Java
 
-| Title                                                                                    | Progress           |
-| ---------------------------------------------------------------------------------------- | :----------------: |
-| [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)                          |                    |
-| [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |                    |
-| [JetBrains Academy](https://www.jetbrains.com/academy/)                                  |                    |
+| Title                                                                                    | Progress                 |
+| ---------------------------------------------------------------------------------------- | :----------------------: |
+| [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)                          |                          |
+| [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |                          |
+| [JetBrains Academy](https://www.jetbrains.com/academy/)                                  | :hourglass_flowing_sand: |
 
 ## Machine Learning
 
@@ -99,16 +99,16 @@
 
 ## Scala
 
-| Title                                                                                                            | Progress                 |
-| ---------------------------------------------------------------------------------------------------------------- | :----------------------: |
-| [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark:       |
-| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :heavy_check_mark:       |
-| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  | :hourglass_flowing_sand: |
-| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :heavy_check_mark:       |
-| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                          |
-| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                          |
-| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                          |
-| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                          |
-| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 | :heavy_check_mark:       |
-| [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
-| [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                          |
+| Title                                                                                                            | Progress           |
+| ---------------------------------------------------------------------------------------------------------------- | :----------------: |
+| [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark: |
+| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :heavy_check_mark: |
+| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  |                    |
+| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :heavy_check_mark: |
+| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                    |
+| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                    |
+| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                    |
+| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                    |
+| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 | :heavy_check_mark: |
+| [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                    |
+| [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                    |
