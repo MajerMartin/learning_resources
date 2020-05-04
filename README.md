@@ -18,6 +18,7 @@
 | [Accelerated C++](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X) | :heavy_check_mark: |
 | [C++ Crash Course](https://nostarch.com/cppcrashcourse)                                             |                    |
 | [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419)       |                    |
+| [LearnCpp.com](https://learncpp.com/)                                                               |                    |
 
 ## Data Engineering
 
