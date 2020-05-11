@@ -13,12 +13,12 @@
 
 ## CPP
 
-| Title                                                                                               | Progress           |
-| --------------------------------------------------------------------------------------------------- | :----------------: |
-| [Accelerated C++](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X) | :heavy_check_mark: |
-| [C++ Crash Course](https://nostarch.com/cppcrashcourse)                                             |                    |
-| [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419)       |                    |
-| [LearnCpp.com](https://learncpp.com/)                                                               |                    |
+| Title                                                                                               | Progress                 |
+| --------------------------------------------------------------------------------------------------- | :----------------------: |
+| [Accelerated C++](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X) | :heavy_check_mark:       |
+| [C++ Crash Course](https://nostarch.com/cppcrashcourse)                                             | :hourglass_flowing_sand: |
+| [Effective Modern C++](https://www.oreilly.com/library/view/effective-modern-c/9781491908419)       |                          |
+| [LearnCpp.com](https://learncpp.com/)                                                               |                          |
 
 ## Data Engineering
 
@@ -65,11 +65,11 @@
 
 ## Java
 
-| Title                                                                                    | Progress                 |
-| ---------------------------------------------------------------------------------------- | :----------------------: |
-| [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)                          |                          |
-| [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |                          |
-| [JetBrains Academy](https://www.jetbrains.com/academy/)                                  | :hourglass_flowing_sand: |
+| Title                                                                                    | Progress |
+| ---------------------------------------------------------------------------------------- | :------: |
+| [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)                          |          |
+| [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |          |
+| [JetBrains Academy](https://www.jetbrains.com/academy/)                                  |          |
 
 ## Machine Learning
 
