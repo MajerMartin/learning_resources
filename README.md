@@ -22,17 +22,17 @@
 
 ## Data Engineering
 
-| Title                                                                                                              | Progress                 |
-| ------------------------------------------------------------------------------------------------------------------ | :----------------------: |
-| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | :heavy_check_mark:       |
-| [Streaming Systems](http://streamingsystems.net/)                                                                  | :hourglass_flowing_sand: |                         |
-| [Spark: The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)            |                          |
-| [High Performance Spark](https://www.oreilly.com/library/view/high-performance-spark/9781491943199/)               |                          |
-| [Apache Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/)               | :heavy_check_mark:       |
-| [Hadoop: The Definitive Guide](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)          | :heavy_check_mark:       |
-| [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)   |                          |
-| [SQL Performance Explained](https://use-the-index-luke.com/)                                                       |                          |
-| [Databricks Academy - Free Customer/Partner Introductory Learning](https://academy.databricks.com)                 |                          |
+| Title                                                                                                              | Progress           |
+| ------------------------------------------------------------------------------------------------------------------ | :----------------: |
+| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | :heavy_check_mark: |
+| [Streaming Systems](http://streamingsystems.net/)                                                                  | :heavy_check_mark: |
+| [Spark: The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)            |                    |
+| [High Performance Spark](https://www.oreilly.com/library/view/high-performance-spark/9781491943199/)               |                    |
+| [Apache Kafka: The Definitive Guide](https://www.confluent.io/resources/kafka-the-definitive-guide/)               | :heavy_check_mark: |
+| [Hadoop: The Definitive Guide](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/)          | :heavy_check_mark: |
+| [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)   |                    |
+| [SQL Performance Explained](https://use-the-index-luke.com/)                                                       |                    |
+| [Databricks Academy - Free Customer/Partner Introductory Learning](https://academy.databricks.com)                 |                    |
 
 ## General
 
@@ -69,7 +69,6 @@
 | ---------------------------------------------------------------------------------------- | :------: |
 | [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)                          |          |
 | [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/) |          |
-| [JetBrains Academy](https://www.jetbrains.com/academy/)                                  |          |
 
 ## Machine Learning
 
@@ -83,6 +82,7 @@
 | [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) |                    |
 | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)                                                                                                              | :heavy_check_mark: |
 | [Reinforcement Learning](http://incompleteideas.net/book/the-book.html)                                                                                                                 | :heavy_check_mark: |
+| [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)                                                                                                            | :heavy_check_mark: |
 
 ## Python
 
@@ -100,16 +100,16 @@
 
 ## Scala
 
-| Title                                                                                                            | Progress           |
-| ---------------------------------------------------------------------------------------------------------------- | :----------------: |
-| [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark: |
-| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :heavy_check_mark: |
-| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  |                    |
-| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :heavy_check_mark: |
-| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                    |
-| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                    |
-| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                    |
-| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                    |
-| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 | :heavy_check_mark: |
-| [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                    |
-| [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                    |
+| Title                                                                                                            | Progress                 |
+| ---------------------------------------------------------------------------------------------------------------- | :----------------------: |
+| [Hello, Scala](https://hello-scala.com/)                                                                         | :heavy_check_mark:       |
+| [Essential Scala](https://underscore.io/books/essential-scala/)                                                  | :heavy_check_mark:       |
+| [Scala with Cats](https://underscore.io/books/scala-with-cats/)                                                  | :hourglass_flowing_sand: |
+| [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)    | :heavy_check_mark:       |
+| [Practical FP in Scala](https://leanpub.com/pfp-scala)                                                           |                          |
+| [Scala Cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611)     |                          |
+| [Functional Programming for Mortals](https://leanpub.com/fpmortals)                                              |                          |
+| [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                          |
+| [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 | :heavy_check_mark:       |
+| [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
+| [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                          |
