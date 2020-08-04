@@ -113,3 +113,4 @@
 | [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 | :heavy_check_mark:       |
 | [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
 | [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                          |
+| [Hands-on Scala Programming](https://www.handsonscala.com/)                                                      | :hourglass_flowing_sand: |
