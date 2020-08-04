@@ -112,5 +112,6 @@
 | [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)                 |                          |
 | [The Neophyte's Guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)                 | :heavy_check_mark:       |
 | [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) |                          |
+| [Reactive Design Patterns](https://www.manning.com/books/reactive-design-patterns)                               |                          |
 | [Effective Scala](http://twitter.github.io/effectivescala/)                                                      |                          |
 | [Hands-on Scala Programming](https://www.handsonscala.com/)                                                      | :hourglass_flowing_sand: |
